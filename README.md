@@ -29,10 +29,11 @@
 
 ------
 ## java容器源码面试
-- 说说hashmap的存取扩容过程？
-- hashmap什么时候扩容?
-- hashmap和hashtable的区别(hash碰撞的不同处理,扩容不同的处理)?
-
+1. hashmap和hashtable的区别(hash碰撞的不同处理,扩容不同的处理)?
+2. arrayList和LinkedList的区别(基本实现区别，数据结构区别，使用角度区别)
+3. hashmap解决hash冲突用了哪些方法,hashmap的扩容，添加元素的流程(详细)
+4. 为什么hashtable键值不能为空
+5. treeMap是根据什么排序，底层的结构是什么，可以添加重复的key？          
 ## 多线程源码面试
 
 ## 多线程案例面试
